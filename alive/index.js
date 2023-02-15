@@ -12,7 +12,7 @@ setInterval(async()=>{
   
     try{await axios.get("https://dalle-post.onrender.com/")}catch(err){}
 
-},5000);
+},3500);
 
 //for first call
 
